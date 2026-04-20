@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Permis B",
+      "description": "8 passagers + 1 conducteur (9 places au total) - Poids total autorisé en charge (PTAC) de 3,5 tonnes maximum.",
+      "image": "/logo.png"
+    },
+    {
+      "id": 2,
+      "name": "Poids lourds",
+      "description": "Limitation de vitesse à 90 km/h.",
+      "image": "/logo.png"
+    },
+    {
+      "id": 3,
+      "name": "R.S.A",
+      "description": "3.6.Lui-même"
+    },
+    {
+      "id": 4,
+      "name": "C.I.A",
+      "description": "Contrôler.Indiquer.Agir"
+    }
+  ]
+}
