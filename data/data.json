@@ -21,6 +21,181 @@
       "id": 4,
       "name": "C.I.A",
       "description": "Contrôler.Indiquer.Agir"
+    },
+    {
+      "id": 5,
+      "name": "P.A.S",
+      "description": "Protéger.Alerter.Secourir"
+    },
+    {
+      "id": 6,
+      "name": "SAIP",
+      "description": "Système d'Alerte et d'Information des Populations"
+    },
+    {
+      "id": 7,
+      "name": "SNA",
+      "description": "Signal National d'Alerte (3 fois sur 1m45s, 5s de pause chaque cycles)"
+    },
+    {
+      "id": 8,
+      "name": "Route hors agglomération",
+      "description": "En général 80 km/h"
+    },
+    {
+      "id": 9,
+      "name": "Infractions simultanément",
+      "description": "-8 points max"
+    },
+    {
+      "id": 10,
+      "name": "Feu en panne",
+      "description": "Clignotants jaunes au milieu ou éteints"
+    },
+    {
+      "id": 11,
+      "name": "Mauvaise temps",
+      "description": "Feux de croisement"
+    },
+    {
+      "id": 12,
+      "name": "Nuit noir / Route non éclairée étroite et sineuse",
+      "description": "Feux de route"
+    },
+    {
+      "id": 13,
+      "name": "B.N.P",
+      "description": "Brouillard.Neige.Pluie (Feux de brouillard avant)"
+    },
+    {
+      "id": 14,
+      "name": "B.N",
+      "description": "Brouillard.Neige (Feux de brouillard arrière)"
+    },
+    {
+      "id": 15,
+      "name": "Téléphoner au volant",
+      "description": "135€, -3 points, risque d'obligation de stage"
+    },
+    {
+      "id": 16,
+      "name": "Arrêt et Stationnement sur autoroute",
+      "description": "135€, -3 points"
+    },
+    {
+      "id": 17,
+      "name": "Circuler sur une voie cyclistes",
+      "description": "4e, 135€"
+    },
+    {
+      "id": 18,
+      "name": "Franchir le feu rouge",
+      "description": "4e, 135€, -4 points"
+    },
+    {
+      "id": 19,
+      "name": "Arrêt et Stationnement Gênant, Abusif (sur un pont, dans un tunnel, souterrain, au niveau ligne continue, sur bande d'arrêt d'urgence)",
+      "description": "2e, 35€"
+    },
+    {
+      "id": 20,
+      "name": "Arrêt et Stationnement Très gênant (sur le trottoirs, sur la bandes cyclables, sur les voies bus, près d'un passage piéton moins de 5 m, sur un emplacement CMI, au niveau du panneaux)",
+      "description": "4e, 135€"
+    },
+    {
+      "id": 21,
+      "name": "Arrêt et Stationnement Dangereux (à l'intersection, au virage, au sommet de côte, à un passage niveau)",
+      "description": "4e, 135€, -3 points, suspension jusqu'à 3 ans"
+    },
+    {
+      "id": 22,
+      "name": "Pas de ceinture de sécurité",
+      "description": "135€, -3 points (Conducteur)"
+    },
+    {
+      "id": 23,
+      "name": "Passager majeur sans ceinture de sécurité",
+      "description": "135€ (C'est lui qui paye)"
+    },
+    {
+      "id": 24,
+      "name": "Franchir la ligne continue",
+      "description": "4e, 135€, -3 points, suspension 3 ans"
+    },
+    {
+      "id": 25,
+      "name": "Pas clignotants",
+      "description": "2e, 35€, -3 points, suspension jusqu'à 3 ans"
+    },
+    {
+      "id": 26,
+      "name": "Plaque d'immatriculation non conforme",
+      "description": "135€, immobilisation du véhicule"
+    },
+    {
+      "id": 27,
+      "name": "Utiliser un emplacement réservé aux personnes handicap",
+      "description": "135€, mis en fourrière"
+    },
+    {
+      "id": 28,
+      "name": "Ampoule brisé/grillée",
+      "description": "68€ (jour) et 135€ (nuit), immobilisation du véhicule possible"
+    },
+    {
+      "id": 29,
+      "name": "En ville limitation <= 50 km/h avec l'excès < 20 km/h",
+      "description": "4e, 135€, -1 point"
+    },
+    {
+      "id": 30,
+      "name": "Sur route limitation >= 50 km/h avec l'excès < 20 km/h",
+      "description": "3e, 68€, -1 point"
+    },
+    {
+      "id": 31,
+      "name": "Un excès >= 50 km/h",
+      "description": "1500€, -6 points, suspension jusqu'à 3 ans, l'immobilisation véhicule"
+    },
+    {
+      "id": 32,
+      "name": "Circuler sur la bande d'arrêt d'urgence",
+      "description": "4e, 135€, -3 points, suspension 3 ans"
+    },
+    {
+      "id": 33,
+      "name": "Circuler en sens interdit",
+      "description": "4e, 135€, -4 points, suspension 3 ans"
+    },
+    {
+      "id": 34,
+      "name": "Refus de priorité à un piéton",
+      "description": "4e, 135€, -6 points, suspension jusqu'à 3 ans"
+    },
+    {
+      "id": 35,
+      "name": "Taux alcoolémie entre 0,50 et 0,79 g/l de sang / Période probatoire (0,20 et 0,79 g/l)",
+      "description": "4e, 135€, -6 points, suspension 3 ans"
+    },
+    {
+      "id": 36,
+      "name": "Délit de fuite",
+      "description": "75 000 €, -6 points, suspension jusqu'à 5 ans, 3 ans de prison minimum"
+    },
+    {
+      "id": 37,
+      "name": "Fumer du cannabis",
+      "description": "C'est un délit, 4 500€, -6 points, suspension 3 ans ou annulation"
+    },
+    {
+      "id": 38,
+      "name": "Route à accès réglementée",
+      "description": "Gratuite, 110 Km/h et 100 Km/h (Temps pluie/Jeune conducteur)"
+    },
+    {
+      "id": 39,
+      "name": "Autoroute",
+      "description": "Payante ou Gratuite, 130 Km/h et 110 Km/h (Temps pluie/Jeune conducteur)"
     }
   ]
 }
