@@ -196,6 +196,246 @@
       "id": 39,
       "name": "Autoroute",
       "description": "Payante ou Gratuite, 130 Km/h et 110 Km/h (Temps pluie/Jeune conducteur)"
+    },
+    {
+      "id": 40,
+      "name": "Distance d'arrêt",
+      "description": "Temps de réaction + Distance de freinage"
+    },
+    {
+      "id": 41,
+      "name": "Tramway",
+      "description": "Un tramway a une distance d'arrêt x4 plus longue qu'une voiture"
+    },
+    {
+      "id": 42,
+      "name": "Période probatoire, 3 points perdus/plus",
+      "description": "Obligation de suivre un stage de sensibilisation"
+    },
+    {
+      "id": 43,
+      "name": "Suivre un stage de 2 jours de sensibilisation",
+      "description": "4 points récupérés max"
+    },
+    {
+      "id": 44,
+      "name": "Stage post-permis (sans infraction)",
+      "description": "2 au lieu de 3 ans (Classique) et 1 an/demi au lieu de 2 ans (AAC)"
+    },
+    {
+      "id": 45,
+      "name": "ESP",
+      "description": "Aide à maîtriser la trajectoire dans un virage lors d'un freinage d'urgence"
+    },
+    {
+      "id": 46,
+      "name": "ABS",
+      "description": "Anti-Blocage des Roues (Système antiblocage des roues)"
+    },
+    {
+      "id": 47,
+      "name": "AFU",
+      "description": "Aide à amplifier au maximum de l'efficacité sur le Freinage d'Urgence sans bloquer les roues et obligatoirement combiné à l'ABS"
+    },
+    {
+      "id": 48,
+      "name": "AFIL",
+      "description": "Alerte de Franchissement Involontaire de Ligne"
+    },
+    {
+      "id": 49,
+      "name": "PTAC",
+      "description": "Correspond au poids maximal autorisé du véhicule une fois chargé"
+    },
+    {
+      "id": 50,
+      "name": "L'association alcool et drogue",
+      "description": "Risque d'accident mortel x29"
+    },
+    {
+      "id": 51,
+      "name": "Champ visuel",
+      "description": "A l'arrêt = 180°, 30km/h = 120°, 80km/h = 60°, 100km/h = 45°, 130km/h = 30°"
+    },
+    {
+      "id": 52,
+      "name": "Même plaque d'immatriculation",
+      "description": "Quand le PTAC de la remorque <= 500 kg"
+    },
+    {
+      "id": 53,
+      "name": "Circuler avec d'alcoolémie de 0,5(0,50) g/l de sang",
+      "description": "Le risque d'avoir un accident mortel est x2"
+    },
+    {
+      "id": 54,
+      "name": "L'acuité 10/10ème",
+      "description": "Permettre de lire un panneau d'entrée d'agglomération à 25, 50 mètres"
+    },
+    {
+      "id": 55,
+      "name": "Roue galette",
+      "description": "Vitesse limitée à 80 Km/h max"
+    },
+    {
+      "id": 56,
+      "name": "Lecture d'un SMS/Téléphone",
+      "description": "Risque d'accident x23"
+    },
+    {
+      "id": 57,
+      "name": "Le feu jaune qui remplace le feu vert",
+      "description": "Autorise à passer avec prudent"
+    },
+    {
+      "id": 58,
+      "name": "CHICANE",
+      "description": "Une succession de petits virages"
+    },
+    {
+      "id": 59,
+      "name": "Roue à sens unique",
+      "description": "Je me serre au côté de la chaussée pour tourner à gauche/droite"
+    },
+    {
+      "id": 60,
+      "name": "Sans ceinture sécurité",
+      "description": "Un choc peut être mortel dès 30 Km/h"
+    },
+    {
+      "id": 61,
+      "name": "ARRÊT MINUTES",
+      "description": "Arrêt un bref instant uniquement"
+    },
+    {
+      "id": 62,
+      "name": "Véhicule > 3,5 t ou avec/sans remorque > 7 mètres de long/poids lourds",
+      "description": "Interdit la voie de gauche s'il y a 3 voies"
+    },
+    {
+      "id": 63,
+      "name": "Sur-régime",
+      "description": "Moteur trop rapide (trop de tours/min)"
+    },
+    {
+      "id": 64,
+      "name": "Sous-régime",
+      "description": "Moteur trop lent (trop peu de tours/minute)"
+    },
+    {
+      "id": 65,
+      "name": "Calcule le taux d'acoolémie dans le sang",
+      "description": "20 g / (60 kg x 0,6) = 0,56 g/l (femme), 30 g / (90 kg x 0,7) = 0,48 g/l (homme)"
+    },
+    {
+      "id": 66,
+      "name": "En éco-conduite",
+      "description": "C'est conseillé de rétrograder le plus tard possible"
+    },
+    {
+      "id": 67,
+      "name": "Une mention sur le permis",
+      "description": "Peut autoriser uniquement la conduite des véhicules équipés d'un éthylotest antidémarrage"
+    },
+    {
+      "id": 68,
+      "name": "La bande d'arrêt d'urgence",
+      "description": "39 mètres séparées d'espaces de 13 mètres, 2 traits représentent donc une distance d'environ 90 mètres"
+    },
+    {
+      "id": 69,
+      "name": "On peut désactiver le régulateur vitesse",
+      "description": "En freinant"
+    },
+    {
+      "id": 70,
+      "name": "On peut désactiver le limiteur vitesse",
+      "description": "En appuyant fort sur l'accélérateur"
+    },
+    {
+      "id": 71,
+      "name": "Période probatoire, permis invalide (tous points perdus)",
+      "description": "Interdire de conduire pendant une durée de 6 mois min"
+    },
+    {
+      "id": 72,
+      "name": "A jeun, le taux maximal d'alcoolémie est atteint environ",
+      "description": "30 min après l'absorption et le corps élimine environ 0,10 à 0,15 g/l par heure (ex: 0,50 g/l, il faut environs 5h30)"
+    },
+    {
+      "id": 73,
+      "name": "Distance de sécurité",
+      "description": "50 Km/h = 30 m, 70 Km/h = 42 m, 90Km/h = 54 m, 110 Km/h = 66 m (1 trait et demie environ), 130 Km/h = 78 m (2 traits environ)"
+    },
+    {
+      "id": 74,
+      "name": "Corridor sécurité",
+      "description": "Si possible, je change de voie en toute sécurité et j'adapte mon allure si celle de droite présente le danger (voiture en panne, etc.)"
+    },
+    {
+      "id": 75,
+      "name": "Pour pratiquer l'éco conduite",
+      "description": "Je passe les vitesses au même régime moteur"
+    },
+    {
+      "id": 76,
+      "name": "Sur la chaussé à 3 voies",
+      "description": "Il est préférable de ne pas garder les clignotant gauche allumé si je reste dans la voie du milieu pour continuer le dépassement d'un véhicule qui est a ma droite"
+    },
+    {
+      "id": 77,
+      "name": "La présence d'un véhicule en intervention sur la voie",
+      "description": "Je respecte le corridor de sécurité et j'abaisse ma vitesse pour réduire le risque d'accident"
+    },
+    {
+      "id": 78,
+      "name": "Lorsque ma vitesse est x2",
+      "description": "L'énergie cinétique est x4 (ex: une collision à 100 km/h, le choc est 4 fois plus puissant qu'à 50 km/h)"
+    },
+    {
+      "id": 79,
+      "name": "Avec la fatigue",
+      "description": "Le temp de réaction peut être x2"
+    },
+    {
+      "id": 80,
+      "name": "La flèche de rabattement",
+      "description": "Peut annoncer une ligne continue ou une réduction de voie"
+    },
+    {
+      "id": 81,
+      "name": "Le nombre d'accidents mortels impliquant des piétons est",
+      "description": "De 1 sur 2 la nuit"
+    },
+    {
+      "id": 82,
+      "name": "Par temps de pluie",
+      "description": "Les distances de freinage sont x2"
+    },
+    {
+      "id": 83,
+      "name": "Pour désactiver l'antivol de direction",
+      "description": "Je bouge délicatement le volant tout en tournant la clé de contact"
+    },
+    {
+      "id": 84,
+      "name": "La distance parcourue pendant mon temps de réaction est",
+      "description": "Plus longue en cas de consommation d'alcool, de fatigue"
+    },
+    {
+      "id": 85,
+      "name": "Limitation de vitesse",
+      "description": "Une limitation de vitesse est un maximum à ne pas dépasser et non un minimum à atteindre"
+    },
+    {
+      "id": 86,
+      "name": "Les jeunes conducteurs (18 à 24 ans)",
+      "description": "Plus d'accidents (surtout responsables)"
+    },
+    {
+      "id": 87,
+      "name": "Une conduite sportive",
+      "description": "Augmente la consommation de carburant, le risque d'accident, le stress du conducteur"
     }
   ]
 }
