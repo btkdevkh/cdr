@@ -1,16 +1,13 @@
-import Image from "next/image";
+import Link from "next/link";
 import data from "@/data/data.json";
 import GoTop from "@/components/GoTop";
-import Link from "next/link";
+import MainTitle from "@/components/MainTitle";
 
 export default function Home() {
   return (
     <div className="max-w-125 mx-auto">
       <div className="flex items-center justify-between">
-        <div className="flex items-center gap-4">
-          <Image src="/logo.png" alt="Stop Logo" width={70} height={37} />
-          <h1 className="text-3xl font-bold">CDR_FR</h1>
-        </div>
+        <MainTitle />
 
         <Link
           href="/galeries"

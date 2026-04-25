@@ -179,6 +179,18 @@
       "title": "voyants_fonctionnement",
       "path": "/galeries/voyants_fonctionnement.jpg",
       "order": 28
+    },
+    {
+      "id": 31,
+      "title": "giratoire",
+      "path": "/galeries/giratoire.png",
+      "order": 30
+    },
+    {
+      "id": 32,
+      "title": "pietons_marche",
+      "path": "/galeries/pietons_marche.png",
+      "order": 31
     }
   ]
 }
