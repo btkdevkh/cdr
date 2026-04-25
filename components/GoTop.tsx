@@ -13,7 +13,7 @@ const GoTop = () => {
     <button
       onClick={handleGoToTop}
       title="Aller vers la haut"
-      className="text-2xl cursor-pointer"
+      className="text-2xl cursor-pointer border-2 border-red-700 py-1 px-2 rounded-xl"
     >
       ⬆️
     </button>

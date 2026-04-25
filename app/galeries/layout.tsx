@@ -11,19 +11,18 @@ const GaleriesLayout = ({
       <div className="flex items-center justify-between gap-4">
         <div className="flex items-center gap-4">
           <Image src="/logo.png" alt="Stop Logo" width={70} height={37} />
-          <h1 className="text-3xl font-bold">CDR Essentielle</h1>
+          <h1 className="text-3xl font-bold">CDR_FR</h1>
         </div>
 
         <Link
           href="/"
           className="bg-gray-900 py-2 px-4 rounded-xl uppercase font-bold cursor-pointer hover:bg-gray-800 border-2 border-red-700"
         >
-          Retour
+          🔙
         </Link>
       </div>
       <br />
-      <hr />
-      <br />
+      <hr className="border-0 bg-red-700 h-0.5" />
 
       {children}
     </div>

@@ -4,7 +4,7 @@ import GoTop from "@/components/GoTop";
 
 const GaleriesPage = () => {
   return (
-    <div className="">
+    <div className="mt-4">
       {galeries.galeries
         .sort((a, b) => Number(a.order) - Number(b.order))
         .map((item) => (
