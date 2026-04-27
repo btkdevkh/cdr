@@ -6,7 +6,7 @@ const GaleriesPage = () => {
   return (
     <div className="mt-4">
       {galeries.galeries
-        .sort((a, b) => Number(a.order) - Number(b.order))
+        .sort((a, b) => Number(b.order) - Number(a.order))
         .map((item) => (
           <div key={item.id} className="border rounded-xl p-4 mb-4 bg-gray-900">
             <Image

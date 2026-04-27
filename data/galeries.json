@@ -191,6 +191,18 @@
       "title": "pietons_marche",
       "path": "/galeries/pietons_marche.png",
       "order": 31
+    },
+    {
+      "id": 33,
+      "title": "distance_etendue",
+      "path": "/galeries/distance_etendue.jpg",
+      "order": 32
+    },
+    {
+      "id": 34,
+      "title": "distance_etendue_danger",
+      "path": "/galeries/distance_etendue_danger.jpg",
+      "order": 34
     }
   ]
 }
