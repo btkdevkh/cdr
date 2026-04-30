@@ -203,6 +203,42 @@
       "title": "distance_etendue_danger",
       "path": "/galeries/distance_etendue_danger.jpg",
       "order": 34
+    },
+    {
+      "id": 35,
+      "title": "pneu_profondeur_min",
+      "path": "/galeries/pneu_profondeur_min.png",
+      "order": 35
+    },
+    {
+      "id": 36,
+      "title": "meme_pneu",
+      "path": "/galeries/meme_pneu.png",
+      "order": 36
+    },
+    {
+      "id": 37,
+      "title": "usure_difference_max",
+      "path": "/galeries/usure_difference_max.png",
+      "order": 37
+    },
+    {
+      "id": 38,
+      "title": "visuelle_usure",
+      "path": "/galeries/visuelle_usure.png",
+      "order": 38
+    },
+    {
+      "id": 39,
+      "title": "usure_flanc",
+      "path": "/galeries/usure_flanc.png",
+      "order": 39
+    },
+    {
+      "id": 40,
+      "title": "pneu_memo",
+      "path": "/galeries/pneu_memo.png",
+      "order": 40
     }
   ]
 }
