@@ -239,6 +239,26 @@
       "title": "pneu_memo",
       "path": "/galeries/pneu_memo.png",
       "order": 40
+    },
+
+    {
+      "id": 41,
+      "title": "quitter_vehicule",
+      "path": "/galeries/quitter_vehicule.png",
+      "order": 41
+    },
+
+    {
+      "id": 42,
+      "title": "sortir_vehicule",
+      "path": "/galeries/sortir_vehicule.png",
+      "order": 42
+    },
+    {
+      "id": 43,
+      "title": "ouvrir_portiere",
+      "path": "/galeries/ouvrir_portiere.png",
+      "order": 43
     }
   ]
 }
