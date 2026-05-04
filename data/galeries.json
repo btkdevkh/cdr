@@ -259,6 +259,18 @@
       "title": "ouvrir_portiere",
       "path": "/galeries/ouvrir_portiere.png",
       "order": 43
+    },
+    {
+      "id": 44,
+      "title": "bataille",
+      "path": "/galeries/bataille.png",
+      "order": 44
+    },
+    {
+      "id": 45,
+      "title": "creneau",
+      "path": "/galeries/creneau.png",
+      "order": 45
     }
   ]
 }
