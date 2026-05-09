@@ -271,6 +271,12 @@
       "title": "creneau",
       "path": "/galeries/creneau.png",
       "order": 45
+    },
+    {
+      "id": 46,
+      "title": "station_essence",
+      "path": "/galeries/station_essence.png",
+      "order": 46
     }
   ]
 }
