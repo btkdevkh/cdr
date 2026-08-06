@@ -277,6 +277,30 @@
       "title": "station_essence",
       "path": "/galeries/station_essence.png",
       "order": 46
+    },
+    {
+      "id": 47,
+      "title": "reprise_premiere",
+      "path": "/galeries/reprise_premiere.jpg",
+      "order": 47
+    },
+    {
+      "id": 48,
+      "title": "courses_embrayage",
+      "path": "/galeries/courses_embrayage.jpg",
+      "order": 48
+    },
+    {
+      "id": 49,
+      "title": "je_suis_prioritaire",
+      "path": "/galeries/je_suis_prioritaire.jpg",
+      "order": 49
+    },
+    {
+      "id": 50,
+      "title": "pas_prioritaire",
+      "path": "/galeries/pas_prioritaire.jpg",
+      "order": 50
     }
   ]
 }
