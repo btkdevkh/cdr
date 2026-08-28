@@ -301,6 +301,18 @@
       "title": "pas_prioritaire",
       "path": "/galeries/pas_prioritaire.jpg",
       "order": 50
+    },
+    {
+      "id": 51,
+      "title": "sens_giratoire_et_rond_point",
+      "path": "/galeries/sens_giratoire_et_rond_point.jpg",
+      "order": 51
+    },
+    {
+      "id": 52,
+      "title": "sens_giratoire_et_rond_point_placement",
+      "path": "/galeries/sens_giratoire_et_rond_point_placement.jpg",
+      "order": 52
     }
   ]
 }
