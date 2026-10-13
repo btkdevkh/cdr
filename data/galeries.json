@@ -337,6 +337,24 @@
       "title": "creneau_droite_avec_espace",
       "path": "/galeries/creneau_droite_avec_espace.jpg",
       "order": 56
+    },
+    {
+      "id": 57,
+      "title": "voie_rapide_entree",
+      "path": "/galeries/voie_rapide_entree.jpg",
+      "order": 57
+    },
+    {
+      "id": 58,
+      "title": "voie_rapide_interieur",
+      "path": "/galeries/voie_rapide_interieur.jpg",
+      "order": 58
+    },
+    {
+      "id": 59,
+      "title": "voie_rapide_sortie",
+      "path": "/galeries/voie_rapide_sortie.jpg",
+      "order": 59
     }
   ]
 }
